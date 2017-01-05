@@ -1,4 +1,4 @@
-# alpine-cvs
+# CVS
 
 Docker container with alpine and cvs pserver
 
@@ -6,7 +6,7 @@ BUILD
 -----
 
 ```console
-docker build -t costamauricio/alpine-cvs .
+docker build -t cvsgit/cvs .
 ```
 
 VOLUME
